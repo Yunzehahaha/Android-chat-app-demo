@@ -1,8 +1,6 @@
 # WithU
 This is a free messaging app inspired by messaging & social media apps. Written in Kotlin implements the Jetpack libraries, Firebase services.
 
-### Screenshots
-![image](https://user-images.githubusercontent.com/25232443/63807967-22693480-c91f-11e9-8f22-af367171ae00.png)
 
 ### Used Tech
 * [Kotlin](https://kotlinlang.org/)
@@ -12,8 +10,6 @@ This is a free messaging app inspired by messaging & social media apps. Written 
 * [Lifecycles](https://developer.android.com/topic/libraries/architecture/lifecycle) - Create a UI that automatically responds to lifecycle events.
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Build data objects that notify views when the underlying database changes.
 * [Navigation](https://developer.android.com/guide/navigation/) - Handle everything needed for in-app navigation.
-* [Paging](https://developer.android.com/topic/libraries/architecture/paging/) - Load and display small chunks of data at a time.
-* [Room](https://developer.android.com/topic/libraries/architecture/room) - Access your app's SQLite database with in-app objects and compile-time checks.
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Store UI-related data that isn't destroyed on app rotations. Easily schedule asynchronous tasks.
 * [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) - Schedule deferrable, asynchronous tasks even if the app exits or device restarts.
 * [Firebase](https://firebase.google.com/docs) - Tools to develop high-quality apps.
