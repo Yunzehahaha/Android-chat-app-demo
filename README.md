@@ -1,5 +1,5 @@
-# ChatApp
-ChatApp is a free messaging app inspired by messaging & social media apps. Written in Kotlin implements the Jetpack libraries, Firebase services.
+# WithU
+This is a free messaging app inspired by messaging & social media apps. Written in Kotlin implements the Jetpack libraries, Firebase services.
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/25232443/63807967-22693480-c91f-11e9-8f22-af367171ae00.png)
